@@ -16,10 +16,10 @@
 
 项目模块图
 
-![](./../../source/imgs/${fiilename}/2.png)
+![](asserts/2.png)
 
 
 
 业务流程图
 
-![](./../../source/imgs/${fiilename}/1.png)
+![](asserts/1.png)
